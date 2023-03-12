@@ -10,3 +10,9 @@ Level: Beginner
 |---|---|---|
 |:blue_book: Liber School Library|---|---|
 
+
+## Python
+Level: Beginner
+
+| Project Name | Description | Libraries & Modules |
+|---|---|---|
