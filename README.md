@@ -30,4 +30,4 @@ Level: Beginner
 # Tableau
 |Project Name|Description|Dashboard Link|
 |---|---|---|
-|---|---|---|
+|:blue_book: [Liber School Library](https://github.com/Agnieszka-Bielecka/Liber-School-Library_MySQL-database)|I created my own sample database for library. Then I asked important questions and answered to them by quering database. Finally, I visualized my results in Tableau.|[Link](https://public.tableau.com/app/profile/agnieszka5169/viz/SchoolLibraryLiber/Dashboard)|
